@@ -1,2 +1,2 @@
 # twitter-clone-server
-A full stack app built with MongoDB, Apollo, GraphQL, and React Native
+A server for my full stack twitter clone built with MongoDB, Apollo, and GraphQL
