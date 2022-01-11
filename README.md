@@ -1,2 +1,2 @@
 # twitter-clone-server
-MongoDB, Apollo, GraphQL
+A server for my full stack twitter clone built with MongoDB, Apollo, and GraphQL
